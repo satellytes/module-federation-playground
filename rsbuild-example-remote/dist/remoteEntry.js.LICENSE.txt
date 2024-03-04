@@ -1,0 +1,29 @@
+/*! /Users/noasanto/Desktop/Projects/module-federation-playground/node_modules/.pnpm/@module-federation+webpack-bundler-runtime@0.0.8/node_modules/@module-federation/webpack-bundler-runtime/dist/index.cjs.js */
+
+/*! /Users/noasanto/Desktop/Projects/module-federation-playground/node_modules/.pnpm/react@18.2.0/node_modules/react/index.js */
+
+/*! /Users/noasanto/Desktop/Projects/module-federation-playground/node_modules/.pnpm/@mantine+core@7.6.1_@mantine+hooks@7.6.1_@types+react@18.2.61_react-dom@18.2.0_react@18.2.0/node_modules/@mantine/core/esm/index.mjs */
+
+/*! @mantine/hooks */
+
+/*! react-dom */
+
+/*! @module-federation/sdk */
+
+/*! react */
+
+/*! @module-federation/runtime */
+
+/*! /Users/noasanto/Desktop/Projects/module-federation-playground/node_modules/.pnpm/react-dom@18.2.0_react@18.2.0/node_modules/react-dom/index.js */
+
+/*! @mantine/core */
+
+/*! @module-federation/sdk */
+
+/*! ./constant.cjs.js */
+
+/*! ./src/CatCard */
+
+/*! /Users/noasanto/Desktop/Projects/module-federation-playground/node_modules/.pnpm/@mantine+hooks@7.6.1_react@18.2.0/node_modules/@mantine/hooks/esm/index.mjs */
+
+/*! ./share.cjs.js */

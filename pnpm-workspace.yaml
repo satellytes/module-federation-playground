@@ -1,0 +1,4 @@
+packages:
+  - 'rsbuild-example-remote/**'
+  - 'rsbuild-example-host/**'
+  - 'nextjs-example-host/**'
