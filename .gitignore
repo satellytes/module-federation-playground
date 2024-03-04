@@ -38,4 +38,8 @@ next-env.d.ts
 rsbuild-example-host/node_modules/
 rsbuild-example-remote/node_modules/
 nextjs-example-host/node_modules/
+nextjs-example-remote/.next/
+nextjs-example-remote/out/
+rsbuild-example-remote/dist/
+rsbuild-example-host/dist/
 .idea/*
