@@ -42,8 +42,8 @@ To run the apps in development mode, you can run use `dev` instead of `start` be
 The remote app will be running on `http://localhost:8081`, the RSBuild host app will be running on `http://localhost:8080` and the Next.js host app will be running on `http://localhost:3000`.
 
 ### SSR
-The RSBuild apps are not rendered on the server, because RSBuild doesn't support SSR.
+The RSBuild apps are not rendered on the server, because RSBuild doesn't support SSR. (For whole pages. Styled-components are SSR compatible)
 
 The Next.js app is rendered on the server, but the remote component is rendered on the client.
-This is because the remote component is not SSR compatible on Next.js when the remote app isn't a Next.js app that renders the component on the server.
+This is because the remote component is not SSR compatible on Next.js when the remote app isn't a Next.js app that renders the component on the server. (Only the remote app can render the component on the server)
 (https://github.com/module-federation/nextjs-ssr)
