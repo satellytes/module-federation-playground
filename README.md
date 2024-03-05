@@ -37,6 +37,19 @@ Run the remote app and the Next.js host app:
 pnpm start:next
 ```
 
+To start an app separately you can run the following commands:
+```bash
+pnpm start:remote
+```
+For the remote app
+```bash
+pnpm start:rsbuild
+```
+For the RSBuild host app
+```bash
+pnpm start:next
+```
+For the Next.js host app
 To run the apps in development mode, you can run use `dev` instead of `start` before the `:` in the commands above.
 
 The remote app will be running on `http://localhost:8081`, the RSBuild host app will be running on `http://localhost:8080` and the Next.js host app will be running on `http://localhost:3000`.
